@@ -1,10 +1,10 @@
-# Flappy Learning ([Demo](http://xviniette.github.io/FlappyLearning/))
+# Flappy Learning ([Demo](https://github.com/Jaaaaarr/noriyuki))
 
 Program that learns to play Flappy Bird by machine learning ([Neuroevolution](http://www.scholarpedia.org/article/Neuroevolution))
 
 ![alt tag](https://github.com/xviniette/FlappyLearning/blob/gh-pages/img/flappy.png?raw=true)
 
-### [NeuroEvolution.js](http://github.com/xviniette/FlappyLearning/blob/gh-pages/Neuroevolution.js) : Utilization
+### [NeuroEvolution.js](https://github.com/Jaaaaarr/noriyuki/blob/master/Neuroevolution.js) : Utilization
 ```javascript
 // Initialize
 var ne = new Neuroevolution({options});
